@@ -145,7 +145,7 @@ $(`<img src="https://www.raed.net/img?id=976938" class="" style="width:390px;hei
    
      <img src="https://www.raed.net/img?id=977185"width="20" height="18">         <button class="button1" onclick="document.location='https://fhh0.com/'">شات فهاوة</button>
         
-       <img src="https://www.raed.net/img?id=977185"width="20" height="18">       <button class="button1" onclick="document.location='https://www.jawalchat.net/'" style="font-size: 10px!important;">شات جوال<img src="https://www.raed.net/img?id=977185"width="20" height="18"></button>
+       <img src="https://www.raed.net/img?id=977185"width="20" height="18">       <button class="button1" onclick="document.location='https://www.jawalchat.net/'">شات جوال<img src="https://www.raed.net/img?id=977185"width="20" height="18"></button>
   
    
 </marquee>
