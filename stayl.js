@@ -103,10 +103,10 @@ border-bottom:2px solid;margin-bottom:2px;border-top:2px solid;margin-top:2px;bo
 $(`<img src="https://www.raed.net/img?id=976938" class="" style="width:390px;height:150px;margin-top: 0px;opacity: 0.67;border-radius: 0px 20px 0px 0px;" >
 
 
-<a id="des22" style="height: 29px;width:70px;border-style: dashed #000;float:right;margin:-130px -1.8px 4px;color: #ffffff;transform:matrix(1, 0, 0, 1, -256, 20);background-color: #e55d7b!important; border-radius: 0px 0px 25px 0px;" class="label label label-primary mini fl " target="_blank" class="fl  fa   fa-phone btn btn-warning" href="اشتراكات">إشتراكات</a>
-<a id="des22" style="height: 29px;width:70px;margin:-124.7px -1.8px 2px; border-radius: 0px 25px 0px 0px;float:right;color:rgb(255, 217, 0);transform:matrix(1, 0, 0, 1, -256, -15);" class="label label label-primary mini fl" class="fl  fa   fa-star btn btn-success" target="_blank" href="قوانين">القوانين</a>
-<a id="des22" style="height: 29px;color: rgb(255 255 255);width:60px;margin:-55px -2px 2px; border-radius: 25px 0px 0px 0px;;transform:matrix(1, 0, 0, 1, 6, -85);background-color: #e55d7b!important;" class="label label label-primary mini fl" target="_blank" class="fl  fa  fa-heartbeat btn btn-danger" href="تطبيق">تطبيق</a>
-<a id="des22" style="height: 29px;width:40px;color: rgb(255 217 11);width:60px;;margin:-60.6px 62px 2px; border-radius: 0px 0px 0px 25px;transform:matrix(1, 0, 0, 1, -58, -50);" class="label label label-primary mini fl" target="_blank" class="fl  fa fa-graduation-cap btn btn-info" href="ادارة">اتصل بنا</a>
+<a id="des22" style="height: 29px;width:70px;border-style: dashed #000;float:right;margin:-130px -1.8px 4px;color: #ffffff;transform:matrix(1, 0, 0, 1, -256, 20);background-color: #e55d7b!important; border-radius: 0px 0px 25px 0px;" class="label label label-primary mini fl " target="_blank" class="fl  fa   fa-phone btn btn-warning" href="sub.html">إشتراكات</a>
+<a id="des22" style="height: 29px;width:70px;margin:-124.7px -1.8px 2px; border-radius: 0px 25px 0px 0px;float:right;color:rgb(255, 217, 0);transform:matrix(1, 0, 0, 1, -256, -15);" class="label label label-primary mini fl" class="fl  fa   fa-star btn btn-success" target="_blank" href="rules.html">القوانين</a>
+<a id="des22" style="height: 29px;color: rgb(255 255 255);width:60px;margin:-55px -2px 2px; border-radius: 25px 0px 0px 0px;;transform:matrix(1, 0, 0, 1, 6, -85);background-color: #e55d7b!important;" class="label label label-primary mini fl" target="_blank" class="fl  fa  fa-heartbeat btn btn-danger" href="mobile.html">تطبيق</a>
+<a id="des22" style="height: 29px;width:40px;color: rgb(255 217 11);width:60px;;margin:-60.6px 62px 2px; border-radius: 0px 0px 0px 25px;transform:matrix(1, 0, 0, 1, -58, -50);" class="label label label-primary mini fl" target="_blank" class="fl  fa fa-graduation-cap btn btn-info" href="contact.html">اتصل بنا</a>
 
 
 <div class="container">
