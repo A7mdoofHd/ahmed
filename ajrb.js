@@ -1,2 +1,2 @@
-document.getElementById("u1").value = "";
-document.getElementsByClassName("momo").click;
+
+document.getElementsByClassName("btn btn-primary momo").click;
